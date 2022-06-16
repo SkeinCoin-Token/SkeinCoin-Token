@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--
-**SkeinCoin-Token/SkeinCoin-Token** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+SkeinCoin has a long history. The coin was created in 2013. The coin was traded on the Cryptopia exchange and in 2019, scammers killed the project. 
+The new team decided to restore SkeinCoin and return the previous users.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
